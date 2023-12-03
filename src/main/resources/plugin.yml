@@ -1,0 +1,9 @@
+name: baseplugin
+main: com.nix.baseplugin.Main
+version: 0.0.1
+api-version: 1.15
+authors: ["nix"]
+commands:
+  bp:
+    description: Base Command for baseplugin
+    usage: /bp ...
